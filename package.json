@@ -3,7 +3,6 @@
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
-    "build": "tsc -p tsconfig.build.json",
     "start": "ts-node --transpile-only src/index.ts"
   },
   "dependencies": {
