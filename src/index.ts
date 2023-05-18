@@ -10,7 +10,7 @@ import SerializingTaskQueue from "./serializingTaskQueue";
  * dictionary.
  */
 const PROVIDER_URLS = {
-  Alchemy: "wss://eth-mainnet.alchemyapi.io/v2/<alchemy-token>",
+  Alchemy: "wss://eth-mainnet.g.alchemy.com/v2/<alchemy-token>",
   Infura: "wss://mainnet.infura.io/ws/v3/<infura-token>",
 };
 
