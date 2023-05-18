@@ -30,4 +30,4 @@ Finally, run the script and wait:
 yarn start
 ```
 
-Copyright © 2021 Alchemy Insights Inc.
+Copyright © 2023 Alchemy Inc.
